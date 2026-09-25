@@ -87,8 +87,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andyys27&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Andrés's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andyys27&layout=compact&hide_border=true&theme=default" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=andyys27&show_icons=true&hide_border=true&cache_seconds=1800" alt="Andrés's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andyys27&layout=compact&hide_border=true&cache_seconds=1800" alt="Top Languages" height="165"/>
 </div>
 
 <h3>Connect with me:</h3>
