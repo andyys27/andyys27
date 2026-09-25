@@ -7,12 +7,6 @@
 
 <h1 align="center">🧬 Hi, I'm Andrés</h1>
 
-<div align="center">
-  <a href="https://github.com/andyys27">
-    <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=500&size=17&pause=1000&color=5C704D&center=true&vCenter=true&width=500&lines=Decoding+bioelectrical+signals...;Training+models+on+EMG+%2F+EEG+data...;Growing+one+neuron+at+a+time..." alt="Typing SVG" />
-  </a>
-</div>
-
 <div>
   <h3 align="left">🌱 About Me</h3>
   <p align="left">
