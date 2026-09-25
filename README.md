@@ -2,7 +2,7 @@
 <!-- markdownlint-disable MD041 -->
 
 <div align="center">
-  <img src="https://i.pinimg.com/1200x/b6/40/d7/b640d7cb7f9b9f6fc0d869012d1b9e79.jpg" alt="Cozy bio-inspired workspace banner" width="100%" style="border-radius: 15px;">
+  <img src="https://images.unsplash.com/photo-1758437053633-0cf081264919?fm=jpg&q=80&w=1500&auto=format&fit=crop" alt="Cozy desk with plants banner" width="100%" style="border-radius: 15px;">
 </div>
 
 <h1 align="center">🧬 Hi, I'm Andrés</h1>
